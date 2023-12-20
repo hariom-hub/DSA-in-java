@@ -1,1 +1,1 @@
-# DSA-in-java
+# Repo contains dsa question in Java.
