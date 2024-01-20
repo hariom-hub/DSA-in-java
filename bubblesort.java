@@ -21,3 +21,4 @@ public class sorting {
         printArray(arr);
     }
 }
+//time complexity - O(n^2)
