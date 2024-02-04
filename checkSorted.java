@@ -1,4 +1,4 @@
-public class checksorted {
+public class checkSorted {
 
     public static boolean isSorted(int []arr,int i){
 
