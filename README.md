@@ -1,5 +1,6 @@
 # Repo contains dsa question in Java.
-**Topics Covered**
+## TOPICS COVERED
+
 # loops
 # arrays,strings
 # patterns
